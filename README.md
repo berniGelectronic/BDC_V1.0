@@ -1,9 +1,5 @@
 # Bus Door Controller - BDC_V1.0
 
-*************************************************************************************
-
-----------------------------BUS DOOR CONTROLLER--------------------------------------
-
 *@Type    Assignment based on STM32F4DISCOVERY board and FreeRTOS
 
 *@Module  Systems Programming for Embedded Devices(ELE00063M) @ University of York
