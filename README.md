@@ -12,10 +12,13 @@
 
 **************************************************************************************
 
-@Brief   This is breadboard prototype of Bus Door Controller with following 
-					features: Setting the threshold current (LIMIT) via trimmer
-										Measuring(simulate) motor current via trimmer									
-	    							Safety pressure switch	
+@Brief   This is breadboard prototype of Bus Door Controller with following features: 
+
+	* Setting the threshold current (LIMIT) via trimmer
+	
+	* Measuring(simulate) motor current via trimmer
+	
+	* Safety pressure switch	
 										
 *	By default, after powering up doors are CLOSING, hitting closed limit 	
 	switch(SW8) changes the state of doors to CLOSED, toggle Open/Close
