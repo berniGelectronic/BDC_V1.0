@@ -42,6 +42,6 @@
 ![Bus_door_module_Project (5)](https://user-images.githubusercontent.com/37474395/88382069-ff9e0500-cda7-11ea-9dc9-31def59d5c9c.png)
 
 
-![Bus_door_module_Project (6)](https://user-images.githubusercontent.com/37474395/88382247-5d325180-cda8-11ea-9c63-87c671a47725.png)
 
+![Bus_door_module_Project (6)](https://user-images.githubusercontent.com/37474395/88382326-86eb7880-cda8-11ea-91b5-094402ffa446.png)
 
